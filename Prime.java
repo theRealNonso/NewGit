@@ -9,6 +9,8 @@ public class Prime{
 	System.out.print("Enter value: ");
 
 		int number = p.nextInt();
+		
+		if(m=n)
 
 
 	}
