@@ -10,7 +10,7 @@ public class Prime{
 
 		int number = p.nextInt();
 		
-		if(m=n)
+		if(m=n && m>n)
 
 
 	}
