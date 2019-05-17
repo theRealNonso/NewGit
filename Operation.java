@@ -12,10 +12,10 @@ public class Operation{
         Scanner f = new Scanner(System.in);
 
         System.out.println("Enter value: ");
-            Num1 = f.nextInt();
+            Num1 = f.nextDouble();
 
         System.out.println("Enter value: ");
-            Num2 = f.nextInt();
+            Num2 = f.nextDouble();
 
         Scanner op = new Scanner(System.in);
 
