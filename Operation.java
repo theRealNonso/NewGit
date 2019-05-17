@@ -5,8 +5,8 @@ public class Operation{
     
     public static void main(String[] args){
 
-        int Num1;
-        int Num2;
+        double Num1;
+        double Num2;
         String opera;
 
         Scanner f = new Scanner(System.in);
